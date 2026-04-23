@@ -8,7 +8,7 @@ This project allows users to shorten long URLs, copy them instantly, and manage 
 ---
 
 ##  Live Demo
-https://your-github-username.github.io/your-repo-name/
+https://jochebed.github.io/landing page/
 
 
  Features
