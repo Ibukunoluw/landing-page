@@ -5,10 +5,7 @@ A responsive landing page for “Shortly,” a URL shortener web app. It uses AP
 A modern, responsive URL shortener built using **HTML5, CSS3, and Vanilla JavaScript**.  
 This project allows users to shorten long URLs, copy them instantly, and manage saved links — all without a backend.
 
----
-
-##  Live Demo
-https://ibukunoluw.github.io/landing-page/
+--
 
 
  Features
